@@ -4,6 +4,8 @@
 
 This project demonstrates a robust backend system built with Node.js and TypeScript, showcasing proficiency in modern web development practices. It features a RESTful API for user registration and address management, utilizing PostgreSQL for data persistence and Express.js for routing.
 
+[Watch Demo Video](https://drive.google.com/file/d/1MxHPIP15rDMSbXLBWeQ8k3TKVmVqVbic/view?usp=sharing)
+
 ## Key Features
 
 - **User Registration**: Seamless API endpoint for user creation with associated addresses.
